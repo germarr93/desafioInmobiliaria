@@ -32,6 +32,7 @@ const NavBar = () => {
               Contactos
             </Nav.Link>
           </Nav>
+          <CartWidget />
         </Navbar.Collapse>
       </Container>
     </Navbar>

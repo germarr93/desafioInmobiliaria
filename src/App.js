@@ -6,9 +6,8 @@ import NavBar from "./Components/NavBar"
 function App() {
   return (
       <div className="App">
-     <Navbar/>
-     <CartWidget/>
-     <ItemListContainer/>
+     <Navbar/>  
+     <ItemListContainer title="Bienvenidos a la Inmobiliaria mas accesible de tu pais."/>
      
   </div>
 
